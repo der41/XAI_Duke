@@ -19,5 +19,5 @@ scipy==1.16.1
 #XAI
 lime==0.2.0.1 
 anchor-exp==0.0.2.0 
-shap==0.45.1
+shap==0.48.0
      
